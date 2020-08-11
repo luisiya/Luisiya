@@ -18,8 +18,10 @@ These qualities make an excellent match for web development, which requires mast
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://github.com/luisiya/Luisiya/blob/master/gifs/js_webpack-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://github.com/luisiya/Luisiya/blob/master/gifs/mongodb-ar21.svg"></a></code> 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://github.com/luisiya/Luisiya/blob/master/gifs/nodejs-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://github.com/luisiya/Luisiya/blob/master/gifs/npmjs-ar21.svg"></a></code>
-
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://github.com/luisiya/Luisiya/blob/master/gifs/npmjs-ar21.svg"></a></code>  
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://github.com/luisiya/Luisiya/blob/master/gifs/sass-lang-ar21.svg"></a></code> 
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://github.com/luisiya/Luisiya/blob/master/gifs/w3_html5-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://github.com/luisiya/Luisiya/blob/master/gifs/docker-ar21.svg"></a></code>
 </span>
 
 

@@ -1,11 +1,11 @@
 
 
-<h1 align="center"># Hello:wave:, and welcome to my GitHub profile! </h1>
 
 
-<img src="https://github.com/luisiya/Luisiya/blob/76c33a525c8730e30fa1e23d7837d44d10dd3848/gifs/1kc1.gif" alt="code"  width="100%" height="200px" style='position:absolute;top:0;left:0;'/>
 
-I'm **Luisi Kravchenko**, a **Frontend web developer** from Kiev, Ukraine.  I consider myself a *curious* and *self-directed* individual.  
+<img src="https://github.com/luisiya/Luisiya/blob/master/gifs/forth_bg.gif" alt="code"  width="100%" height="200px" style='position:absolute;top:0;left:0;'/>
+
+Hi, I'm **Luisi Kravchenko**, a **Frontend web developer** from Kiev, Ukraine.  I consider myself a *curious* and *self-directed* individual.  
 These qualities make an excellent match for web development, which requires mastering the basics while staying on top of constantly changing trends.
 <br>
 <span class='icons'>

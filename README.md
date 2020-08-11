@@ -1,7 +1,10 @@
 
 
 <h1 align="center"># Hello:wave:, and welcome to my GitHub profile! </h1>
-<h3 align="center">A passionate Data Scientist and Open Source contributor  </h3>
+
+
+Hi! I'm **Luisi Kravchenko**, a **full-stack web developer** from Kiev, Ukraine.  I consider myself a *curious* and *self-directed* individual.  
+These qualities make an excellent match for web development, which requires mastering the basics while staying on top of constantly changing trends.
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
